@@ -4,6 +4,7 @@
 * Add HTTP3(QUIC) Support.
 * Add HTTP2 HPACK Encoding Support.
 * Add Dynamic TLS Record support.
+
   For BoringSSL support OCSP stapling.
 
   Thanks [@kn007](https://github.com/kn007/patch/)
